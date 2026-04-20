@@ -1,2 +1,7 @@
-# demo-pizzeria-gran-napole
-Demo web para Pizzeria Gran Napole — diseñada por eterlab.
+# Pizzeria Gran Napole
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
